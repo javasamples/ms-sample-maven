@@ -1,6 +1,6 @@
 spring:
   application:
-    name: ms-samle-maven
+    name: ms-sample-maven
   profiles:
     active: dev
   cloud:
